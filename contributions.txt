@@ -1,0 +1,17 @@
+=== Répartition des tâches ===
+
+Rene :
+- Création des interfaces ILecteur, ICalculateur, IAfficheur, IExporteur
+- Implémentation de LecteurCSV
+- Gestion des exceptions IOException
+
+Sylvain :
+- Implémentation de CalculateurStats
+- Implémentation de AfficheurConsole
+- Gestion des exceptions NumberFormatException
+
+Prénom3 :
+- Implémentation de ExporteurFichier
+- Classe AnalyseurDonnees (orchestration)
+- Classe Statistiques et Main
+- Tests et fichier data.csv
