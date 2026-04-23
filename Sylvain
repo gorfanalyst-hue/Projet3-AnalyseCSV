@@ -1,8 +1,0 @@
-Sylvain
-Travail effectué : 
-
-1- Création des interfaces : ILecteur, IAfficheur
-
-- Implémentation de AfficheurConsole, Statistiques, LecteurCSV
-- Gestion des exceptions IOException liées aux méthodes implémentées ci - dessus
-- Création du fichier data.csv
