@@ -1,0 +1,14 @@
+Sylvain
+Travail effectué :
+
+1- Création des interfaces :
+
+    1.1- ICalculateur
+    1.2- IExporteur
+
+2- Implémentation des classes :
+
+    2.1- AnalyseurDonnees
+    2.2- CalculateurStats
+    2.3- ExporteurFichier
+    2.4- Main
