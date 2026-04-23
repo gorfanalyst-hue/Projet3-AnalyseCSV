@@ -18,11 +18,11 @@ affiche les résultats et génère des rapports exportés.
 
 ## Architecture (principes SOLID)
 - `ILecteur` / `LecteurCSV` : lecture du fichier CSV
-- `ICalculateur` / `CalculateurStats` : calcul des statistiques
+- `ICalculateur` / `CalculateurStats` : Analyse des données pour vérifier leur conformité
 - `IAfficheur` / `AfficheurConsole` : affichage console
 - `IExporteur` / `ExporteurFichier` : export TXT et CSV
 - `AnalyseurDonnees` : orchestration du pipeline
-- `Statistiques` : modèle de données
+- `Statistiques` : calcul des statistiques min, max, moyenne
 
 ## Instructions d'exécution
 1. Cloner le dépôt
