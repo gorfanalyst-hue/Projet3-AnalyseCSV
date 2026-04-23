@@ -4,7 +4,7 @@ public class Statistiques {
     private double somme;
     private double minimum;
     private double maximum;
-    private int    nombreValeurs;
+    private    int nombreValeurs;
 
     public Statistiques(String nomColonne) {
         this.nomColonne    = nomColonne;
